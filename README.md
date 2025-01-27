@@ -1,4 +1,4 @@
-# To-Do List
+# Interactive To-Do List
 
 This is a simple to-do list application built using HTML, CSS, and JavaScript.
 
